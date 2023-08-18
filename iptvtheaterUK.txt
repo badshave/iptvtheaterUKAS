@@ -1,0 +1,1132 @@
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== UK =====" tvg-logo="" group-title="",===== UK =====
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1203
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: TNT Sport Ultimate 4K" tvg-logo="" group-title="Live: United Kingdom",VIP UK: TNT Sport Ultimate 4K
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/124500
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC One FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC One FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/125452
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC One UHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC One UHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/125419
+#EXTINF:-1 tvg-ID="bbc1.uk" tvg-name="VIP UK: BBC One" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC One
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2240
+#EXTINF:-1 tvg-ID="bbc2.uk" tvg-name="VIP UK: BBC Two FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: BBC Two FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2238
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: BBC Three FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Three FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2239
+#EXTINF:-1 tvg-ID="bbc4.uk" tvg-name="VIP UK: BBC Four FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: BBC Four FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/8169
+#EXTINF:-1 tvg-ID="itv1.uk" tvg-name="VIP UK: ITV FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: ITV FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/6886
+#EXTINF:-1 tvg-ID="itv2.uk" tvg-name="VIP UK: ITV 2 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: ITV 2 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/7623
+#EXTINF:-1 tvg-ID="itv3.uk" tvg-name="VIP UK: ITV 3 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: ITV 3 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/8182
+#EXTINF:-1 tvg-ID="itv4.uk" tvg-name="VIP UK: ITV 4 FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: ITV 4 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/7624
+#EXTINF:-1 tvg-ID="channel4.uk" tvg-name="VIP UK: Channel 4 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Channel 4 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/8170
+#EXTINF:-1 tvg-ID="channel5.uk" tvg-name="VIP UK: Channel 5 FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Channel 5 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/8171
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK:  RTE 1 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK:  RTE 1 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/146295
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK:  RTE 2 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK:  RTE 2 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/146294
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK:  RTE Jr FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK:  RTE Jr FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/146293
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: RTE News FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: RTE News FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/146292
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Virgin Media One" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Virgin Media One
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/22622
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Virgin Media Two" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Virgin Media Two
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/22623
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Virgin Media Three" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Virgin Media Three
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/22624
+#EXTINF:-1 tvg-ID="skyatlantic.uk" tvg-name="VIP UK: Sky Atlantic HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Atlantic HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12581
+#EXTINF:-1 tvg-ID="skyaction.uk" tvg-name="VIP UK: Sky Cinema Action HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Cinema Action HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12576
+#EXTINF:-1 tvg-ID="skyfamily.uk" tvg-name="VIP UK: Sky Cinema Animation HD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Cinema Animation HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12575
+#EXTINF:-1 tvg-ID="skycomedy.uk" tvg-name="VIP UK: Sky Cinema Comedy HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Cinema Comedy HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12577
+#EXTINF:-1 tvg-ID="skydisney.uk" tvg-name="VIP UK: Sky Cinema Disney HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Cinema Disney HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/11773
+#EXTINF:-1 tvg-ID="skydrama.uk" tvg-name="VIP UK: Sky Cinema Drama HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Cinema Drama HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/11772
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Cinema Family HD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Cinema Family HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/29790
+#EXTINF:-1 tvg-ID="Sky Movies Greats UK" tvg-name="VIP UK: Sky Cinema Greats HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Cinema Greats HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/11771
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Cinema Hits HD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Cinema Hits HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/60881
+#EXTINF:-1 tvg-ID="skypremiere.uk" tvg-name="VIP UK: Sky Cinema Premiere HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Cinema Premiere HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/11769
+#EXTINF:-1 tvg-ID="skyscifihorror.uk" tvg-name="VIP UK: Sky Cinema SC-FI & Horror HD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Cinema SC-FI & Horror HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/11768
+#EXTINF:-1 tvg-ID="skyselect.uk" tvg-name="VIP UK: Sky Cinema Select HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Cinema Select HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12579
+#EXTINF:-1 tvg-ID="skycrimethriller.uk" tvg-name="VIP UK: Sky Cinema Thriller HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Cinema Thriller HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12578
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Documentary FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Documentary FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/30634
+#EXTINF:-1 tvg-ID="itvboxoffice.uk" tvg-name="VIP UK: Sky History FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky History FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12475
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Nature FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Nature FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20585
+#EXTINF:-1 tvg-ID="skywitness.uk" tvg-name="VIP UK: Sky Witness HD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Witness HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20567
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Crime FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Crime FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20586
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Great! Movies Action" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Great! Movies Action
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74230
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Great! Movies Classic" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Great! Movies Classic
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74231
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: SKY Store PreOrder 1" tvg-logo="" group-title="Live: United Kingdom",VIP UK: SKY Store PreOrder 1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74228
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Store 1 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Store 1 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/44266
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Store 2 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Store 2 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/44267
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Store 3 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Store 3 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/44268
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Store 4 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Store 4 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/44269
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Store 5 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Store 5 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/44270
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: TNT Sports 1 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: TNT Sports 1 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/60877
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="VIP UK: TNT Sports 1 HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: TNT Sports 1 HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/8178
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: TNT Sports 2 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: TNT Sports 2 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/60878
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="VIP UK: TNT Sports 2 HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: TNT Sports 2 HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/8179
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: TNT Sports 3 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: TNT Sports 3 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/60879
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="VIP UK: TNT Sports 3 HD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: TNT Sports 3 HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/8180
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: TNT Sports 4 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: TNT Sports 4 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/60880
+#EXTINF:-1 tvg-ID="btsportespn.uk" tvg-name="VIP UK: TNT Sports 4 HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: TNT Sports 4 HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20199
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: TNT Sports 5 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: TNT Sports 5 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118260
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: TNT Sports 6 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: TNT Sports 6 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118261
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: TNT Sports 7 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: TNT Sports 7 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118262
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: TNT Sports 8 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: TNT Sports 8 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118263
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: TNT Sports 9 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: TNT Sports 9 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118264
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: TNT Sports 10 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: TNT Sports 10 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118265
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: TNT Sports Box Office HD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: TNT Sports Box Office HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20823
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: DAZN 1 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: DAZN 1 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74229
+#EXTINF:-1 tvg-ID="elevensports.uk" tvg-name="VIP UK: ELEVEN SPORT 1 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: ELEVEN SPORT 1 1080P
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/18770
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Eurosport 1 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Eurosport 1 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/66148
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Eurosport 2 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Eurosport 2 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/66149
+#EXTINF:-1 tvg-ID="premiersports1.uk" tvg-name="VIP UK: Viaplay Sports 1 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Viaplay Sports 1 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/22620
+#EXTINF:-1 tvg-ID="premiersports2.uk" tvg-name="VIP UK: Viaplay Sports 2 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Viaplay Sports 2 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/30440
+#EXTINF:-1 tvg-ID="freesports.uk" tvg-name="VIP UK: Viaplay Xtra HD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Viaplay Xtra HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/16288
+#EXTINF:-1 tvg-ID="elevensports.uk" tvg-name="VIP UK: LA LIGA HD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: LA LIGA HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/18771
+#EXTINF:-1 tvg-ID="skysportsboxoffice.uk" tvg-name="VIP UK: Sky Box Office PPV HD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Box Office PPV HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/13672
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="VIP UK: Sky Sport Arena FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Arena FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/30347
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="VIP UK: Sky Sport Arena HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Arena HD 1080P
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12662
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="VIP UK: Sky Sport Cricket FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Cricket FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/30346
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="VIP UK: Sky Sport Cricket HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Cricket HD 1080P
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/8173
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="VIP UK: Sky Sport F1 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport F1 FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/30345
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="VIP UK: Sky Sport F1 HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport F1 HD 1080P
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/8177
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="VIP UK: Sky Sport Football FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Football FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/30344
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="VIP UK: Sky Sport Football HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Football HD 1080P
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12663
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="VIP UK: Sky Sport Golf FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Golf FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/30343
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="VIP UK: Sky Sport Golf HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Golf HD 1080P
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/8175
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="VIP UK: Sky Sport Main Event FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Main Event FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/30342
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="VIP UK: Sky Sport Main Events HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Main Events HD 1080P
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/8172
+#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="VIP UK: Sky Sport Mix FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Mix FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/30339
+#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="VIP UK: Sky Sport Mix HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Mix HD 1080P
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/28990
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="VIP UK: Sky Sport News FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport News FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/30338
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="VIP UK: Sky Sport News HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport News HD 1080P
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/28991
+#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="VIP UK: Sky Sport Action FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Action FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/30348
+#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="VIP UK: Sky Sport Action HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Action HD 1080P
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/8174
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Sport Premier League 4K" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Premier League 4K
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/144299
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="VIP UK: Sky Sport Premier League FHD" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Premier League FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/30341
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="VIP UK: Sky Sport PL HD 1080P" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport PL HD 1080P
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/8176
+#EXTINF:-1 tvg-ID="skysportsracing.uk" tvg-name="VIP UK: Sky Sport Racing" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Sky Sport Racing
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/26015
+#EXTINF:-1 tvg-ID="skysportsracing.uk" tvg-name="VIP UK: Sky Sport Racing FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Racing FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/30340
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Betfred TV" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Betfred TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20592
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Coral TV 1" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Coral TV 1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20590
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Coral TV 2" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Coral TV 2
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74233
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Ladbrokes TV" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: Ladbrokes TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20588
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Ladbrokes TV 2" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Ladbrokes TV 2
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20589
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Ladbrokes TV 3" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Ladbrokes TV 3
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74232
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Paddy Power TV 1" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Paddy Power TV 1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20587
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: SIS One" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: SIS One
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20583
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: SIS Racing" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: SIS Racing
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20584
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: SIS Two" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: SIS Two
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20582
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: William Hill BTV" tvg-logo="" group-title="Live: United Kingdom",VIP UK: William Hill BTV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74098
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: William Hill One" tvg-logo="" group-title="Live: United Kingdom",VIP UK: William Hill One
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20576
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: William Hill Two TV" tvg-logo="" group-title="Live: United Kingdom",VIP UK: William Hill Two TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74097
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Birmingham City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Birmingham City  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139170
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Blackburn Rovers  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Blackburn Rovers  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139171
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Blackpool  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Blackpool  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139172
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Bristol City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Bristol City  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139173
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Burnley  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Burnley  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139174
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Cardiff City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Cardiff City  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139175
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Coventry City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Coventry City  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139176
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Huddersfield Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Huddersfield Town  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139177
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Hull City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Hull City  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139178
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Luton Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Luton Town  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139179
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Middlesbrough  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Middlesbrough  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139180
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Milwall  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Milwall  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139181
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Norwich City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Norwich City  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139182
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Preston North End  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Preston North End  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139183
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Queens Park Rangers  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Queens Park Rangers  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139184
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Reading  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Reading  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139185
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Rotherham United  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Rotherham United  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139186
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Sheffield United  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Sheffield United  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139187
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Stoke City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Stoke City  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139188
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Sunderland  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Sunderland  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139189
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Swansea City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Swansea City  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139190
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Watford  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Watford  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139192
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| West Bromwich Albion  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| West Bromwich Albion  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139191
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: CHAMP| Wigan Athletic  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: CHAMP| Wigan Athletic  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139193
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Accrington Stanley  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Accrington Stanley  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139194
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Barnley  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Barnley  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139195
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Bolton Wanderers  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Bolton Wanderers  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139196
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Bristol Rovers  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Bristol Rovers  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139197
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Burton Albion  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Burton Albion  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139198
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Cambridge United  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Cambridge United  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139199
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Charlton Athletic  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Charlton Athletic  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139200
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Cheltenham Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Cheltenham Town  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139201
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Derby County  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Derby County  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139202
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Exeter City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Exeter City  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139203
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Fleetwood Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Fleetwood Town  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139204
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Forest Green Rovers  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Forest Green Rovers  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139205
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Ipswich Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Ipswich Town  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139206
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Lincoln City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Lincoln City  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139207
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| MK Dons  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| MK Dons  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139208
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Morecambe  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Morecambe  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139209
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Oxford United  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Oxford United  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139210
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Peterborough United  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Peterborough United  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139211
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Plymouth Argyle  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Plymouth Argyle  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139212
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Port Vale  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Port Vale  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139214
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Portsmouth  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Portsmouth  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139213
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Sheffield Wednesday  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Sheffield Wednesday  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139215
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Shrewsbury Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Shrewsbury Town  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139216
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L1| Wycombe Wanderers  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L1| Wycombe Wanderers  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139217
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| AFC Wimbledon  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| AFC Wimbledon  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139218
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Barrow  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Barrow  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139219
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Bradford City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Bradford City  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139220
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Carlisle United  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Carlisle United  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139221
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Colchester United  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Colchester United  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139222
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Crawley Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Crawley Town  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139223
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Crewe Alexandra  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Crewe Alexandra  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139224
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Doncaster Rovers  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Doncaster Rovers  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139225
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Gillingham  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Gillingham  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139226
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Grimsby Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Grimsby Town  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139227
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Harrogate Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Harrogate Town  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139228
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Hartlepool United  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Hartlepool United  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139229
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Leyton Orient  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Leyton Orient  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139230
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Mansfield Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Mansfield Town  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139231
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Newport County  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Newport County  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139232
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Northampton Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Northampton Town  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139233
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Rochdale  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Rochdale  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139234
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Salford City  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Salford City  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139235
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Stevenage  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Stevenage  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139236
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Stockport County  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Stockport County  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139237
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Sutton United  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Sutton United  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139238
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Swindon Town  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Swindon Town  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139239
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Tranmere Rovers  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Tranmere Rovers  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139240
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: L2| Walsall  " tvg-logo="" group-title="Live: United Kingdom",VIP UK: L2| Walsall  
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/139241
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Amazon Prime EPL FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Amazon Prime EPL FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/94357
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Amazon Prime EPL FHD 1" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Amazon Prime EPL FHD 1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/94591
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Amazon Prime EPL FHD 2" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Amazon Prime EPL FHD 2
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/94592
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Amazon Prime EPL FHD 3" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Amazon Prime EPL FHD 3
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/94593
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Amazon Prime EPL FHD 4" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Amazon Prime EPL FHD 4
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/94594
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Amazon Prime EPL FHD 5" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Amazon Prime EPL FHD 5
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/94595
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Amazon Prime EPL FHD 6" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Amazon Prime EPL FHD 6
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/94596
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Amazon Prime EPL FHD 7" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Amazon Prime EPL FHD 7
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/94597
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Amazon Prime EPL FHD 8" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Amazon Prime EPL FHD 8
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/94598
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Amazon Prime EPL FHD 9" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Amazon Prime EPL FHD 9
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/94599
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: DAZN 1 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: DAZN 1 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118153
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: DAZN 2 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: DAZN 2 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118154
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: DAZN 3 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: DAZN 3 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118155
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: DAZN 4 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: DAZN 4 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118156
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: DAZN 5 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: DAZN 5 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118157
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: DAZN 6 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: DAZN 6 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118158
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: DAZN 7 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: DAZN 7 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118159
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Sport Red Button 01 [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Red Button 01 [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/26214
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Sport Red Button 02 [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Red Button 02 [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/26213
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Sport Red Button 03 [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Red Button 03 [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/26212
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Sport Red Button 04 [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Red Button 04 [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/26211
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Sport Red Button 05 [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Red Button 05 [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/26210
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Sport Red Button 06 [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Red Button 06 [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/26209
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Sport Red Button 07 [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Red Button 07 [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/26208
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Sport Red Button 08 [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Red Button 08 [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/26207
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Sport Red Button 09 [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Sky Sport Red Button 09 [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/26206
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: CELTIC FC TV [Live During Events Only]" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: CELTIC FC TV [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/30557
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: DUNDEE FC TV [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: DUNDEE FC TV [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/30553
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: ABERDEEN FC TV [Live During Events Only]" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: ABERDEEN FC TV [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/30552
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: HEARTS TV [Live During Events Only]" tvg-logo="[""]" group-title="Live: United Kingdom",VIP UK: HEARTS TV [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/30554
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: HIBS FC TV [Live During Events Only]" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: HIBS FC TV [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/30555
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Leeds United TV [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: Leeds United TV [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/31105
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: RANGERS FC TV [Live During Events Only]" tvg-logo="[" group-title="Live: United Kingdom",VIP UK: RANGERS FC TV [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/30556
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: SPFL 1 HD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: SPFL 1 HD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/34646
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: SPFL 2 HD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: SPFL 2 HD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/34647
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: SPFL 3 HD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: SPFL 3 HD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/34648
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: SPFL 4 HD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: SPFL 4 HD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/34649
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: SPFL 5 HD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: SPFL 5 HD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/34650
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: SPFL 6 HD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: SPFL 6 HD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/34651
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 1 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 1 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118160
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 2 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 2 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118161
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 3 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 3 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118162
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 4 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 4 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118163
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 5 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 5 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118164
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 6 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 6 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118165
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 7 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 7 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118166
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 8 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 8 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118167
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 9 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 9 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118168
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 10 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 10 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118169
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 11 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 11 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118170
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 12 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 12 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118171
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 13 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 13 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118172
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 14 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 14 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118173
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 15 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 15 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118174
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 16 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 16 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118175
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 17 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 17 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118176
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 18 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 18 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118177
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 19 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 19 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118178
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 20 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 20 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118179
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 21 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 21 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118180
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 22 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 22 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118181
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 23 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 23 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118182
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC Red Button 24 FHD [Live During Events Only]" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BBC Red Button 24 FHD [Live During Events Only]
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/118183
+#EXTINF:-1 tvg-ID="bbc1.uk" tvg-name="UK: BBC 1" tvg-logo="[" group-title="Live: United Kingdom",UK: BBC 1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/274
+#EXTINF:-1 tvg-ID="bbc2.uk" tvg-name="UK: BBC 2" tvg-logo="[" group-title="Live: United Kingdom",UK: BBC 2
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/273
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: BBC 3" tvg-logo="" group-title="Live: United Kingdom",UK: BBC 3
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/272
+#EXTINF:-1 tvg-ID="bbc4.uk" tvg-name="UK: BBC 4" tvg-logo="[" group-title="Live: United Kingdom",UK: BBC 4
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/271
+#EXTINF:-1 tvg-ID="bbcscotland.uk" tvg-name="UK: BBC Scotland" tvg-logo="[" group-title="Live: United Kingdom",UK: BBC Scotland
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/29121
+#EXTINF:-1 tvg-ID="bbc1scotland.uk" tvg-name="UK: BBC One Scotland" tvg-logo="" group-title="Live: United Kingdom",UK: BBC One Scotland
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/17995
+#EXTINF:-1 tvg-ID="BBC Two Scotland UK" tvg-name="UK: BBC Two Scotland" tvg-logo="" group-title="Live: United Kingdom",UK: BBC Two Scotland
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/17996
+#EXTINF:-1 tvg-ID="bbc1wales.uk" tvg-name="UK: BBC One Wales" tvg-logo="" group-title="Live: United Kingdom",UK: BBC One Wales
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/17997
+#EXTINF:-1 tvg-ID="bbc2wales.uk" tvg-name="UK: BBC Two Wales" tvg-logo="[" group-title="Live: United Kingdom",UK: BBC Two Wales
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/29123
+#EXTINF:-1 tvg-ID="bbc1northernireland.uk" tvg-name="UK: BBC One Northern Ireland" tvg-logo="[" group-title="Live: United Kingdom",UK: BBC One Northern Ireland
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/29122
+#EXTINF:-1 tvg-ID="bbc2northernireland.uk" tvg-name="UK: BBC Two Northern Ireland" tvg-logo="[" group-title="Live: United Kingdom",UK: BBC Two Northern Ireland
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/29124
+#EXTINF:-1 tvg-ID="bbcparliament.uk" tvg-name="UK: BBC Parliament" tvg-logo="[" group-title="Live: United Kingdom",UK: BBC Parliament
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/17998
+#EXTINF:-1 tvg-ID="BBC ALBA UK" tvg-name="UK: BBC Alba" tvg-logo="[" group-title="Live: United Kingdom",UK: BBC Alba
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/17999
+#EXTINF:-1 tvg-ID="cbeebies.uk" tvg-name="UK: CBeebies HD" tvg-logo="" group-title="Live: United Kingdom",UK: CBeebies HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/6146
+#EXTINF:-1 tvg-ID="cbbc.uk" tvg-name="UK: CBBC" tvg-logo="[""]" group-title="Live: United Kingdom",UK: CBBC
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/6147
+#EXTINF:-1 tvg-ID="bbcnews.uk" tvg-name="UK: BBC News HD" tvg-logo="" group-title="Live: United Kingdom",UK: BBC News HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/915
+#EXTINF:-1 tvg-ID="bbcworldnews.uk" tvg-name="UK: BBC World News" tvg-logo="" group-title="Live: United Kingdom",UK: BBC World News
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/26106
+#EXTINF:-1 tvg-ID="itv1.uk" tvg-name="UK: Itv 1" tvg-logo="[" group-title="Live: United Kingdom",UK: Itv 1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/268
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV 1  1" tvg-logo="" group-title="Live: United Kingdom",UK: ITV 1  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74182
+#EXTINF:-1 tvg-ID="itv2.uk" tvg-name="UK: Itv 2" tvg-logo="" group-title="Live: United Kingdom",UK: Itv 2
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/267
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV 2  1" tvg-logo="" group-title="Live: United Kingdom",UK: ITV 2  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74183
+#EXTINF:-1 tvg-ID="itv3.uk" tvg-name="UK: Itv 3" tvg-logo="" group-title="Live: United Kingdom",UK: Itv 3
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/252
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV 3  1" tvg-logo="" group-title="Live: United Kingdom",UK: ITV 3  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74184
+#EXTINF:-1 tvg-ID="itv4.uk" tvg-name="UK: Itv 4" tvg-logo="" group-title="Live: United Kingdom",UK: Itv 4
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/251
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV 4  1" tvg-logo="" group-title="Live: United Kingdom",UK: ITV 4  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74185
+#EXTINF:-1 tvg-ID="channel4.uk" tvg-name="UK: Channel 4 HD" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Channel 4 HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/927
+#EXTINF:-1 tvg-ID="channel5.uk" tvg-name="UK: Channel 5 HD" tvg-logo="" group-title="Live: United Kingdom",UK: Channel 5 HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/928
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Channel 5  1" tvg-logo="" group-title="Live: United Kingdom",UK: Channel 5  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74149
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="UK: Sky Sport Main Events" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sport Main Events
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/259
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="UK: Sky Sport Cricket" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sport Cricket
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/258
+#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="UK: Sky Sport Action" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sport Action
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/257
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="UK: Sky Sport Golf" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sport Golf
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/256
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="UK: Sky Sport PL" tvg-logo="" group-title="Live: United Kingdom",UK: Sky Sport PL
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/255
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK: Sky Sport F1" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Sky Sport F1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/253
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="UK: Sky Sport News" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sport News
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/416
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="UK: Sky Sport Main Events HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sport Main Events HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/6680
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="UK: Sky Sport Cricket HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sport Cricket HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/6681
+#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="UK: Sky Sport Action HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sport Action HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/6682
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="UK: Sky Sport Golf HD" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Sky Sport Golf HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/6683
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="UK: Sky Sport Premier League HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sport Premier League HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/6684
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="UK: Sky Sport Football HD" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Sky Sport Football HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/15406
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="UK: Sky Sport Arena HD" tvg-logo="" group-title="Live: United Kingdom",UK: Sky Sport Arena HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12665
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK: Sky Sport F1 HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sport F1 HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/6685
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="UK: Sky Sports News HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Sports News HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1624
+#EXTINF:-1 tvg-ID="Sky Sports Mix HD UK" tvg-name="UK: Sky Sports MIX" tvg-logo="" group-title="Live: United Kingdom",UK: Sky Sports MIX
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/7608
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK: TNT Sports 1 HD" tvg-logo="" group-title="Live: United Kingdom",UK: TNT Sports 1 HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1641
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK: TNT Sports 2 HD" tvg-logo="[" group-title="Live: United Kingdom",UK: TNT Sports 2 HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2512
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK: TNT Sports 3 HD" tvg-logo="[" group-title="Live: United Kingdom",UK: TNT Sports 3 HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2513
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK: TNT Sport 1" tvg-logo="[" group-title="Live: United Kingdom",UK: TNT Sport 1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/374
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK: TNT Sport 2" tvg-logo="[" group-title="Live: United Kingdom",UK: TNT Sport 2
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/375
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK: TNT Sport 3" tvg-logo="[" group-title="Live: United Kingdom",UK: TNT Sport 3
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1282
+#EXTINF:-1 tvg-ID="btsportespn.uk" tvg-name="UK: TNT Sport ESPN HD" tvg-logo="" group-title="Live: United Kingdom",UK: TNT Sport ESPN HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/587
+#EXTINF:-1 tvg-ID="" tvg-name="UK: TNT Sport Extra" tvg-logo="" group-title="Live: United Kingdom",UK: TNT Sport Extra
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1247
+#EXTINF:-1 tvg-ID="" tvg-name="UK: TNT Sport Mosaic" tvg-logo="" group-title="Live: United Kingdom",UK: TNT Sport Mosaic
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/7609
+#EXTINF:-1 tvg-ID="btsportx1.uk" tvg-name="UK: TNT Sport Extra 1" tvg-logo="" group-title="Live: United Kingdom",UK: TNT Sport Extra 1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/7610
+#EXTINF:-1 tvg-ID="btsportx2.uk" tvg-name="UK: TNT Sport Extra 2" tvg-logo="" group-title="Live: United Kingdom",UK: TNT Sport Extra 2
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/7611
+#EXTINF:-1 tvg-ID="btsportx3.uk" tvg-name="UK: TNT Sport Extra 3" tvg-logo="" group-title="Live: United Kingdom",UK: TNT Sport Extra 3
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/7612
+#EXTINF:-1 tvg-ID="btsportx4.uk" tvg-name="UK: TNT Sport Extra 4" tvg-logo="" group-title="Live: United Kingdom",UK: TNT Sport Extra 4
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/7613
+#EXTINF:-1 tvg-ID="eurosport1.uk" tvg-name="UK: EuroSport 1 HD" tvg-logo="" group-title="Live: United Kingdom",UK: EuroSport 1 HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1634
+#EXTINF:-1 tvg-ID="eurosport2.uk" tvg-name="UK: EuroSport 2" tvg-logo="" group-title="Live: United Kingdom",UK: EuroSport 2
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1633
+#EXTINF:-1 tvg-ID="premiersports1.uk" tvg-name="UK: Eir Sport 1" tvg-logo="" group-title="Live: United Kingdom",UK: Eir Sport 1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/376
+#EXTINF:-1 tvg-ID="premiersports2.uk" tvg-name="UK: Eir Sport 2" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Eir Sport 2
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/18130
+#EXTINF:-1 tvg-ID="chelseatv.uk" tvg-name="UK: Chelsea TV HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Chelsea TV HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/937
+#EXTINF:-1 tvg-ID="racinguk.uk" tvg-name="UK: Racing HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Racing HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/14151
+#EXTINF:-1 tvg-ID="mutv.uk" tvg-name="UK: MUTV HD" tvg-logo="" group-title="Live: United Kingdom",UK: MUTV HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/7631
+#EXTINF:-1 tvg-ID="mutv.uk" tvg-name="UK: MUTV" tvg-logo="[""]" group-title="Live: United Kingdom",UK: MUTV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1238
+#EXTINF:-1 tvg-ID="3e UK" tvg-name="UK: 3E" tvg-logo="" group-title="Live: United Kingdom",UK: 3E
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/920
+#EXTINF:-1 tvg-ID="4music.uk" tvg-name="UK: 4Music" tvg-logo="" group-title="Live: United Kingdom",UK: 4Music
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12518
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="UK: 4seven" tvg-logo="" group-title="Live: United Kingdom",UK: 4seven
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12517
+#EXTINF:-1 tvg-ID="hearttv.uk" tvg-name="UK: 5 Select" tvg-logo="" group-title="Live: United Kingdom",UK: 5 Select
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12309
+#EXTINF:-1 tvg-ID="5star.uk" tvg-name="UK: 5 Star" tvg-logo="[" group-title="Live: United Kingdom",UK: 5 Star
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/7616
+#EXTINF:-1 tvg-ID="" tvg-name="UK: 5 Star  1" tvg-logo="" group-title="Live: United Kingdom",UK: 5 Star  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74140
+#EXTINF:-1 tvg-ID="fiveusa.uk" tvg-name="UK: 5 Usa" tvg-logo="" group-title="Live: United Kingdom",UK: 5 Usa
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/922
+#EXTINF:-1 tvg-ID="" tvg-name="UK: 5 Usa  1" tvg-logo="" group-title="Live: United Kingdom",UK: 5 Usa  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74141
+#EXTINF:-1 tvg-ID="aajtak.uk" tvg-name="UK: Aaj Tak" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Aaj Tak
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2858
+#EXTINF:-1 tvg-ID="abpnews.uk" tvg-name="UK: ABP News" tvg-logo="" group-title="Live: United Kingdom",UK: ABP News
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2859
+#EXTINF:-1 tvg-ID="" tvg-name="UK: AL Jazeera HD" tvg-logo="" group-title="Live: United Kingdom",UK: AL Jazeera HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74142
+#EXTINF:-1 tvg-ID="alibi.uk" tvg-name="UK: Alibi" tvg-logo="" group-title="Live: United Kingdom",UK: Alibi
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/933
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Alibi  1" tvg-logo="" group-title="Live: United Kingdom",UK: Alibi  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74143
+#EXTINF:-1 tvg-ID="amc.uk" tvg-name="UK: AMC From BT" tvg-logo="[""]" group-title="Live: United Kingdom",UK: AMC From BT
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12495
+#EXTINF:-1 tvg-ID="andtv.uk" tvg-name="UK: And TV" tvg-logo="" group-title="Live: United Kingdom",UK: And TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2841
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Animal Planet  1" tvg-logo="" group-title="Live: United Kingdom",UK: Animal Planet  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74144
+#EXTINF:-1 tvg-ID="animalplanet.uk" tvg-name="UK: Animal Planet HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Animal Planet HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1643
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Arirang TV" tvg-logo="" group-title="Live: United Kingdom",UK: Arirang TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74145
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Aris News" tvg-logo="" group-title="Live: United Kingdom",UK: Aris News
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74146
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: B4U Kadak" tvg-logo="" group-title="Live: United Kingdom",UK: B4U Kadak
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2851
+#EXTINF:-1 tvg-ID="b4umovies.uk" tvg-name="UK: B4U Movies" tvg-logo="[" group-title="Live: United Kingdom",UK: B4U Movies
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2850
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: B4U Music" tvg-logo="[" group-title="Live: United Kingdom",UK: B4U Music
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2853
+#EXTINF:-1 tvg-ID="babytv.uk" tvg-name="UK: baby tv" tvg-logo="" group-title="Live: United Kingdom",UK: baby tv
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2232
+#EXTINF:-1 tvg-ID="bet.uk" tvg-name="UK: BET" tvg-logo="" group-title="Live: United Kingdom",UK: BET
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/7618
+#EXTINF:-1 tvg-ID="Bike UK" tvg-name="UK: Bike" tvg-logo="" group-title="Live: United Kingdom",UK: Bike
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12515
+#EXTINF:-1 tvg-ID="blaze.uk" tvg-name="UK: Blaze" tvg-logo="" group-title="Live: United Kingdom",UK: Blaze
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12514
+#EXTINF:-1 tvg-ID="bloombergtv.uk" tvg-name="UK: Bloomberg" tvg-logo="[" group-title="Live: United Kingdom",UK: Bloomberg
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12513
+#EXTINF:-1 tvg-ID="boomerang.uk" tvg-name="UK: Boomerang" tvg-logo="[" group-title="Live: United Kingdom",UK: Boomerang
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1285
+#EXTINF:-1 tvg-ID="boxupfront.uk" tvg-name="UK: BOX Hits" tvg-logo="[" group-title="Live: United Kingdom",UK: BOX Hits
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20572
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Brit Asia" tvg-logo="" group-title="Live: United Kingdom",UK: Brit Asia
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74147
+#EXTINF:-1 tvg-ID="" tvg-name="UK: British Muslim" tvg-logo="" group-title="Live: United Kingdom",UK: British Muslim
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74148
+#EXTINF:-1 tvg-ID="citv.uk" tvg-name="UK: C ITV" tvg-logo="" group-title="Live: United Kingdom",UK: C ITV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12511
+#EXTINF:-1 tvg-ID="cartoonnetwork.uk" tvg-name="UK: Cartoon network" tvg-logo="" group-title="Live: United Kingdom",UK: Cartoon network
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2231
+#EXTINF:-1 tvg-ID="cartoonito.uk" tvg-name="UK: Cartoonito" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Cartoonito
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/17913
+#EXTINF:-1 tvg-ID="cbsaction.uk" tvg-name="UK: CBS Drama" tvg-logo="[" group-title="Live: United Kingdom",UK: CBS Drama
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/924
+#EXTINF:-1 tvg-ID="cbsdrama.uk" tvg-name="UK: CBS Justice" tvg-logo="[" group-title="Live: United Kingdom",UK: CBS Justice
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/926
+#EXTINF:-1 tvg-ID="cbsreality.uk" tvg-name="UK: CBS Reality" tvg-logo="" group-title="Live: United Kingdom",UK: CBS Reality
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/925
+#EXTINF:-1 tvg-ID="challenge.uk" tvg-name="UK: Challenge" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Challenge
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12512
+#EXTINF:-1 tvg-ID="chartshowhits.uk" tvg-name="UK: Chart Show Hits UK" tvg-logo="" group-title="Live: United Kingdom",UK: Chart Show Hits UK
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20591
+#EXTINF:-1 tvg-ID="MTV Dance UK" tvg-name="UK: Club MTV" tvg-logo="" group-title="Live: United Kingdom",UK: Club MTV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12308
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Clubland TV" tvg-logo="" group-title="Live: United Kingdom",UK: Clubland TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/42042
+#EXTINF:-1 tvg-ID="cnbc.uk" tvg-name="UK: CNBC News" tvg-logo="[" group-title="Live: United Kingdom",UK: CNBC News
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12365
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: CNN HD" tvg-logo="[" group-title="Live: United Kingdom",UK: CNN HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/31078
+#EXTINF:-1 tvg-ID="colors.uk" tvg-name="UK: Colors" tvg-logo="" group-title="Live: United Kingdom",UK: Colors
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2845
+#EXTINF:-1 tvg-ID="colors.uk" tvg-name="UK: Colors Europe" tvg-logo="" group-title="Live: United Kingdom",UK: Colors Europe
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2846
+#EXTINF:-1 tvg-ID="comedyxtra.uk" tvg-name="UK: Comedy Central Extra" tvg-logo="[" group-title="Live: United Kingdom",UK: Comedy Central Extra
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1639
+#EXTINF:-1 tvg-ID="comedycentral.uk" tvg-name="UK: Comedy Central HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Comedy Central HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2219
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Court TV" tvg-logo="" group-title="Live: United Kingdom",UK: Court TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74150
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Craft Extra" tvg-logo="" group-title="Live: United Kingdom",UK: Craft Extra
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74151
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Create & Craft" tvg-logo="" group-title="Live: United Kingdom",UK: Create & Craft
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74152
+#EXTINF:-1 tvg-ID="crimeandinvestigationnetwork.uk" tvg-name="UK: Crime & Investigation HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Crime & Investigation HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12509
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Cruise 1st TV" tvg-logo="" group-title="Live: United Kingdom",UK: Cruise 1st TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74153
+#EXTINF:-1 tvg-ID="dave.uk" tvg-name="UK: Dave HD" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Dave HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/934
+#EXTINF:-1 tvg-ID="discoverychannel.uk" tvg-name="UK: Discovery" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Discovery
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1638
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Discovery  1" tvg-logo="" group-title="Live: United Kingdom",UK: Discovery  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74154
+#EXTINF:-1 tvg-ID="discoveryhistory.uk" tvg-name="UK: Discovery History" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Discovery History
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1245
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Discovery History  1" tvg-logo="" group-title="Live: United Kingdom",UK: Discovery History  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74155
+#EXTINF:-1 tvg-ID="discoveryscience.uk" tvg-name="UK: Discovery Science" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Discovery Science
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1299
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Discovery Science  1" tvg-logo="" group-title="Live: United Kingdom",UK: Discovery Science  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74156
+#EXTINF:-1 tvg-ID="discoveryturbo.uk" tvg-name="UK: Discovery Turbo" tvg-logo="[" group-title="Live: United Kingdom",UK: Discovery Turbo
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1637
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Discovery Turbo  1" tvg-logo="" group-title="Live: United Kingdom",UK: Discovery Turbo  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74157
+#EXTINF:-1 tvg-ID="disneychannel.uk" tvg-name="UK: DISNEY HD" tvg-logo="[" group-title="Live: United Kingdom",UK: DISNEY HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1298
+#EXTINF:-1 tvg-ID="disneyxd.uk" tvg-name="UK: Disney XD" tvg-logo="[" group-title="Live: United Kingdom",UK: Disney XD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12507
+#EXTINF:-1 tvg-ID="" tvg-name="UK: DMAX  1" tvg-logo="" group-title="Live: United Kingdom",UK: DMAX  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74158
+#EXTINF:-1 tvg-ID="discoverydmax.uk" tvg-name="UK: DMAX HD" tvg-logo="" group-title="Live: United Kingdom",UK: DMAX HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2220
+#EXTINF:-1 tvg-ID="drama.uk" tvg-name="UK: Drama" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Drama
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1272
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Drama  1" tvg-logo="" group-title="Live: United Kingdom",UK: Drama  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74159
+#EXTINF:-1 tvg-ID="eentertainmentplus1.uk" tvg-name="UK: E!" tvg-logo="[""]" group-title="Live: United Kingdom",UK: E!
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1635
+#EXTINF:-1 tvg-ID="e4.uk" tvg-name="UK: E4" tvg-logo="[""]" group-title="Live: United Kingdom",UK: E4
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/7632
+#EXTINF:-1 tvg-ID="" tvg-name="UK: E4  1" tvg-logo="" group-title="Live: United Kingdom",UK: E4  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74160
+#EXTINF:-1 tvg-ID="e4.uk" tvg-name="UK: E4 HD" tvg-logo="[""]" group-title="Live: United Kingdom",UK: E4 HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1270
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Eden  1" tvg-logo="" group-title="Live: United Kingdom",UK: Eden  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74161
+#EXTINF:-1 tvg-ID="eden.uk" tvg-name="UK: EDEN HD" tvg-logo="[" group-title="Live: United Kingdom",UK: EDEN HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/7628
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Eman AR" tvg-logo="" group-title="Live: United Kingdom",UK: Eman AR
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74162
+#EXTINF:-1 tvg-ID="" tvg-name="UK: EURONEWS" tvg-logo="" group-title="Live: United Kingdom",UK: EURONEWS
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74163
+#EXTINF:-1 tvg-ID="" tvg-name="UK: EWTN" tvg-logo="" group-title="Live: United Kingdom",UK: EWTN
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74164
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Faith" tvg-logo="" group-title="Live: United Kingdom",UK: Faith
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74165
+#EXTINF:-1 tvg-ID="" tvg-name="UK: FILM 4  1" tvg-logo="" group-title="Live: United Kingdom",UK: FILM 4  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74166
+#EXTINF:-1 tvg-ID="film4.uk" tvg-name="UK: Film 4 HD" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Film 4 HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/917
+#EXTINF:-1 tvg-ID="film4.uk" tvg-name="UK: Film4 HD" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Film4 HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/7627
+#EXTINF:-1 tvg-ID="finelivingeurope.uk" tvg-name="UK: Fine Living Network" tvg-logo="[" group-title="Live: United Kingdom",UK: Fine Living Network
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1268
+#EXTINF:-1 tvg-ID="fiveusa.uk" tvg-name="UK: Five" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Five
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20573
+#EXTINF:-1 tvg-ID="foodnetwork.uk" tvg-name="UK: Food Network" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Food Network
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/4389
+#EXTINF:-1 tvg-ID="" tvg-name="UK: FOOD XP" tvg-logo="" group-title="Live: United Kingdom",UK: FOOD XP
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74167
+#EXTINF:-1 tvg-ID="" tvg-name="UK: FORCES TV" tvg-logo="" group-title="Live: United Kingdom",UK: FORCES TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74168
+#EXTINF:-1 tvg-ID="FOX News UK" tvg-name="UK: Fox News HD" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Fox News HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2234
+#EXTINF:-1 tvg-ID="france24.uk" tvg-name="UK: France 24" tvg-logo="[" group-title="Live: United Kingdom",UK: France 24
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12504
+#EXTINF:-1 tvg-ID="freesports.uk" tvg-name="UK: Viaplay Xtra" tvg-logo="[" group-title="Live: United Kingdom",UK: Viaplay Xtra
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12505
+#EXTINF:-1 tvg-ID="" tvg-name="UK: GOD TV" tvg-logo="" group-title="Live: United Kingdom",UK: GOD TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74169
+#EXTINF:-1 tvg-ID="gold.uk" tvg-name="UK: Gold" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Gold
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/932
+#EXTINF:-1 tvg-ID="" tvg-name="UK: GOLD  1" tvg-logo="" group-title="Live: United Kingdom",UK: GOLD  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74170
+#EXTINF:-1 tvg-ID="goodfood.uk" tvg-name="UK: Good Food" tvg-logo="[" group-title="Live: United Kingdom",UK: Good Food
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/923
+#EXTINF:-1 tvg-ID="home.uk" tvg-name="UK: H&H+1" tvg-logo="[" group-title="Live: United Kingdom",UK: H&H+1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/931
+#EXTINF:-1 tvg-ID="history2.uk" tvg-name="UK: H2" tvg-logo="" group-title="Live: United Kingdom",UK: H2
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2237
+#EXTINF:-1 tvg-ID="" tvg-name="UK: HGTV" tvg-logo="" group-title="Live: United Kingdom",UK: HGTV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74171
+#EXTINF:-1 tvg-ID="" tvg-name="UK: HIDAYAT" tvg-logo="" group-title="Live: United Kingdom",UK: HIDAYAT
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74172
+#EXTINF:-1 tvg-ID="" tvg-name="UK: High Street TV" tvg-logo="" group-title="Live: United Kingdom",UK: High Street TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74173
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Hillsong" tvg-logo="" group-title="Live: United Kingdom",UK: Hillsong
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74174
+#EXTINF:-1 tvg-ID="historychannel.uk" tvg-name="UK: History HD" tvg-logo="" group-title="Live: United Kingdom",UK: History HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2236
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Hochanda" tvg-logo="" group-title="Live: United Kingdom",UK: Hochanda
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74175
+#EXTINF:-1 tvg-ID="homeandhealth.uk" tvg-name="UK: Home Health" tvg-logo="" group-title="Live: United Kingdom",UK: Home Health
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12503
+#EXTINF:-1 tvg-ID="horrorchannel.uk" tvg-name="UK: Horror Channel" tvg-logo="[" group-title="Live: United Kingdom",UK: Horror Channel
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/935
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Horror Channel  1" tvg-logo="" group-title="Live: United Kingdom",UK: Horror Channel  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74176
+#EXTINF:-1 tvg-ID="horseandcountry.uk" tvg-name="UK: Horse and Country" tvg-logo="" group-title="Live: United Kingdom",UK: Horse and Country
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/7617
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ID  1" tvg-logo="" group-title="Live: United Kingdom",UK: ID  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74180
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Ideal World HD" tvg-logo="" group-title="Live: United Kingdom",UK: Ideal World HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74177
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Insight TV HD" tvg-logo="" group-title="Live: United Kingdom",UK: Insight TV HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74178
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Inspiration TV" tvg-logo="" group-title="Live: United Kingdom",UK: Inspiration TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74179
+#EXTINF:-1 tvg-ID="investigationdiscovery.uk" tvg-name="UK: Investigation Discovery" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Investigation Discovery
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1296
+#EXTINF:-1 tvg-ID="" tvg-name="UK: iON TV" tvg-logo="" group-title="Live: United Kingdom",UK: iON TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74181
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV Anglia" tvg-logo="" group-title="Live: United Kingdom",UK: ITV Anglia
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74186
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV BE  1" tvg-logo="" group-title="Live: United Kingdom",UK: ITV BE  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74187
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV Encore" tvg-logo="" group-title="Live: United Kingdom",UK: ITV Encore
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74188
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV Granada" tvg-logo="" group-title="Live: United Kingdom",UK: ITV Granada
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74189
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV London" tvg-logo="" group-title="Live: United Kingdom",UK: ITV London
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74190
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV Yorkshire" tvg-logo="" group-title="Live: United Kingdom",UK: ITV Yorkshire
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74191
+#EXTINF:-1 tvg-ID="itvbe.uk" tvg-name="UK: ITVBE" tvg-logo="[" group-title="Live: United Kingdom",UK: ITVBE
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2224
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Kanshi TV" tvg-logo="" group-title="Live: United Kingdom",UK: Kanshi TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74192
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Keep It Country" tvg-logo="" group-title="Live: United Kingdom",UK: Keep It Country
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74193
+#EXTINF:-1 tvg-ID="kerrang.uk" tvg-name="UK: Kerrang TV" tvg-logo="" group-title="Live: United Kingdom",UK: Kerrang TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20578
+#EXTINF:-1 tvg-ID="liverpoolfctv.uk" tvg-name="UK: LFC TV" tvg-logo="[" group-title="Live: United Kingdom",UK: LFC TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1239
+#EXTINF:-1 tvg-ID="lifetime.uk" tvg-name="UK: Life Time HD" tvg-logo="" group-title="Live: United Kingdom",UK: Life Time HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12501
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Live 360" tvg-logo="" group-title="Live: United Kingdom",UK: Live 360
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74194
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Living" tvg-logo="" group-title="Live: United Kingdom",UK: Living
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74195
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Living HD" tvg-logo="" group-title="Live: United Kingdom",UK: Living HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74196
+#EXTINF:-1 tvg-ID="londonlive.uk" tvg-name="UK: London Live" tvg-logo="[" group-title="Live: United Kingdom",UK: London Live
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12500
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Love Nature" tvg-logo="" group-title="Live: United Kingdom",UK: Love Nature
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74197
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Love Nature HD" tvg-logo="" group-title="Live: United Kingdom",UK: Love Nature HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74198
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Love World" tvg-logo="" group-title="Live: United Kingdom",UK: Love World
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74199
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Love World HD" tvg-logo="" group-title="Live: United Kingdom",UK: Love World HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74200
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Madani Channel" tvg-logo="" group-title="Live: United Kingdom",UK: Madani Channel
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74201
+#EXTINF:-1 tvg-ID="magic.uk" tvg-name="UK: Magic TV" tvg-logo="" group-title="Live: United Kingdom",UK: Magic TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12498
+#EXTINF:-1 tvg-ID="" tvg-name="UK: MATV National" tvg-logo="" group-title="Live: United Kingdom",UK: MATV National
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74202
+#EXTINF:-1 tvg-ID="more4.uk" tvg-name="UK: More 4" tvg-logo="[""]" group-title="Live: United Kingdom",UK: More 4
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1295
+#EXTINF:-1 tvg-ID="" tvg-name="UK: More 4  1" tvg-logo="" group-title="Live: United Kingdom",UK: More 4  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74203
+#EXTINF:-1 tvg-ID="more4.uk" tvg-name="UK: More 4 HD" tvg-logo="[""]" group-title="Live: United Kingdom",UK: More 4 HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/7630
+#EXTINF:-1 tvg-ID="motorstv.uk" tvg-name="UK: Motors" tvg-logo="[" group-title="Live: United Kingdom",UK: Motors
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12499
+#EXTINF:-1 tvg-ID="MTV Base UK" tvg-name="UK: MTV Base" tvg-logo="" group-title="Live: United Kingdom",UK: MTV Base
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12305
+#EXTINF:-1 tvg-ID="mtvclassic.uk" tvg-name="UK: MTV Classic" tvg-logo="[" group-title="Live: United Kingdom",UK: MTV Classic
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/7619
+#EXTINF:-1 tvg-ID="mtvdance.uk" tvg-name="UK: MTV Dance" tvg-logo="" group-title="Live: United Kingdom",UK: MTV Dance
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/26351
+#EXTINF:-1 tvg-ID="mtv.uk" tvg-name="UK: MTV HD" tvg-logo="[" group-title="Live: United Kingdom",UK: MTV HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/7622
+#EXTINF:-1 tvg-ID="mtvhits.uk" tvg-name="UK: MTV Hits" tvg-logo="" group-title="Live: United Kingdom",UK: MTV Hits
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/7621
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: MTV Live FHD" tvg-logo="" group-title="Live: United Kingdom",UK: MTV Live FHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/35379
+#EXTINF:-1 tvg-ID="MTV Music UK" tvg-name="UK: MTV Music" tvg-logo="[""]" group-title="Live: United Kingdom",UK: MTV Music
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12306
+#EXTINF:-1 tvg-ID="mtvomg.uk" tvg-name="UK: MTV OMG" tvg-logo="[" group-title="Live: United Kingdom",UK: MTV OMG
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/26352
+#EXTINF:-1 tvg-ID="mtvrocks.uk" tvg-name="UK: MTV Rocks" tvg-logo="[""]" group-title="Live: United Kingdom",UK: MTV Rocks
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12307
+#EXTINF:-1 tvg-ID="" tvg-name="UK: My TV" tvg-logo="" group-title="Live: United Kingdom",UK: My TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74204
+#EXTINF:-1 tvg-ID="natgeo.uk" tvg-name="UK: Nat Geo HD" tvg-logo="" group-title="Live: United Kingdom",UK: Nat Geo HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1293
+#EXTINF:-1 tvg-ID="natgeowild.uk" tvg-name="UK: Nat Geo Wild" tvg-logo="" group-title="Live: United Kingdom",UK: Nat Geo Wild
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1302
+#EXTINF:-1 tvg-ID="" tvg-name="UK: New Vision TV" tvg-logo="" group-title="Live: United Kingdom",UK: New Vision TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74205
+#EXTINF:-1 tvg-ID="" tvg-name="UK: News Max" tvg-logo="" group-title="Live: United Kingdom",UK: News Max
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74206
+#EXTINF:-1 tvg-ID="" tvg-name="UK: NHK WORLD" tvg-logo="" group-title="Live: United Kingdom",UK: NHK WORLD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74207
+#EXTINF:-1 tvg-ID="nickjunior.uk" tvg-name="UK: Nick Jnr Too" tvg-logo="[" group-title="Live: United Kingdom",UK: Nick Jnr Too
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12496
+#EXTINF:-1 tvg-ID="nickjunior.uk" tvg-name="UK: NICK JUNIOR" tvg-logo="" group-title="Live: United Kingdom",UK: NICK JUNIOR
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1292
+#EXTINF:-1 tvg-ID="nicktoons.uk" tvg-name="UK: NICK TOONS" tvg-logo="[""]" group-title="Live: United Kingdom",UK: NICK TOONS
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1261
+#EXTINF:-1 tvg-ID="nickelodeon.uk" tvg-name="UK: Nickelodeon" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Nickelodeon
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1291
+#EXTINF:-1 tvg-ID="nollywood.uk" tvg-name="UK: Nollywood" tvg-logo="" group-title="Live: United Kingdom",UK: Nollywood
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/14150
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: Now 80s" tvg-logo="" group-title="Live: United Kingdom",UK: Now 80s
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/26617
+#EXTINF:-1 tvg-ID="now90s.uk" tvg-name="UK: Now 90s" tvg-logo="" group-title="Live: United Kingdom",UK: Now 90s
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20579
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Paramount Network" tvg-logo="" group-title="Live: United Kingdom",UK: Paramount Network
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74208
+#EXTINF:-1 tvg-ID="" tvg-name="UK: PBS America" tvg-logo="" group-title="Live: United Kingdom",UK: PBS America
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20574
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Pcne Chinese" tvg-logo="" group-title="Live: United Kingdom",UK: Pcne Chinese
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74209
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Peace TV" tvg-logo="" group-title="Live: United Kingdom",UK: Peace TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74210
+#EXTINF:-1 tvg-ID="picktv.uk" tvg-name="UK: PICK" tvg-logo="[" group-title="Live: United Kingdom",UK: PICK
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2223
+#EXTINF:-1 tvg-ID="pop.uk" tvg-name="UK: POP" tvg-logo="[" group-title="Live: United Kingdom",UK: POP
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12494
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Pop Max" tvg-logo="" group-title="Live: United Kingdom",UK: Pop Max
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74211
+#EXTINF:-1 tvg-ID="quest.uk" tvg-name="UK: Quest" tvg-logo="[" group-title="Live: United Kingdom",UK: Quest
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/921
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Quest RED" tvg-logo="" group-title="Live: United Kingdom",UK: Quest RED
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74212
+#EXTINF:-1 tvg-ID="questred.uk" tvg-name="UK: Quest Red +1" tvg-logo="" group-title="Live: United Kingdom",UK: Quest Red +1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20417
+#EXTINF:-1 tvg-ID="" tvg-name="UK: QVC" tvg-logo="" group-title="Live: United Kingdom",UK: QVC
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74213
+#EXTINF:-1 tvg-ID="" tvg-name="UK: QVC Beauty" tvg-logo="" group-title="Live: United Kingdom",UK: QVC Beauty
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74214
+#EXTINF:-1 tvg-ID="" tvg-name="UK: QVC Extra" tvg-logo="" group-title="Live: United Kingdom",UK: QVC Extra
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74215
+#EXTINF:-1 tvg-ID="" tvg-name="UK: QVC Style" tvg-logo="" group-title="Live: United Kingdom",UK: QVC Style
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74216
+#EXTINF:-1 tvg-ID="reallives.uk" tvg-name="UK: Real Lives" tvg-logo="" group-title="Live: United Kingdom",UK: Real Lives
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2222
+#EXTINF:-1 tvg-ID="really.uk" tvg-name="UK: Really" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Really
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1631
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Replay" tvg-logo="" group-title="Live: United Kingdom",UK: Replay
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74217
+#EXTINF:-1 tvg-ID="rishteycineplex.uk" tvg-name="UK: Rishtey" tvg-logo="" group-title="Live: United Kingdom",UK: Rishtey
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2843
+#EXTINF:-1 tvg-ID="rok.uk" tvg-name="UK: ROK TV" tvg-logo="[""]" group-title="Live: United Kingdom",UK: ROK TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20575
+#EXTINF:-1 tvg-ID="rtd.uk" tvg-name="UK: Afrobeats 24/7" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Afrobeats 24/7
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20570
+#EXTINF:-1 tvg-ID="RTE One UK" tvg-name="UK: RTE 1 HD" tvg-logo="[" group-title="Live: United Kingdom",UK: RTE 1 HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12493
+#EXTINF:-1 tvg-ID="RTE Two UK" tvg-name="UK: RTE 2 HD" tvg-logo="" group-title="Live: United Kingdom",UK: RTE 2 HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12492
+#EXTINF:-1 tvg-ID="RTE News Now UK" tvg-name="UK: RTE News Now" tvg-logo="[" group-title="Live: United Kingdom",UK: RTE News Now
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20569
+#EXTINF:-1 tvg-ID="RTE One UK" tvg-name="UK: Rte One" tvg-logo="[" group-title="Live: United Kingdom",UK: Rte One
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/418
+#EXTINF:-1 tvg-ID="RTE Two UK" tvg-name="UK: Rte Two" tvg-logo="[" group-title="Live: United Kingdom",UK: Rte Two
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/584
+#EXTINF:-1 tvg-ID="RTE Jr UK" tvg-name="UK: RTEjr" tvg-logo="[" group-title="Live: United Kingdom",UK: RTEjr
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2227
+#EXTINF:-1 tvg-ID="S4C UK" tvg-name="UK: S4C" tvg-logo="[" group-title="Live: United Kingdom",UK: S4C
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12491
+#EXTINF:-1 tvg-ID="sonysab.uk" tvg-name="UK: Sab TV (SET)" tvg-logo="" group-title="Live: United Kingdom",UK: Sab TV (SET)
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2840
+#EXTINF:-1 tvg-ID="sonymax.uk" tvg-name="UK: SET Max" tvg-logo="[""]" group-title="Live: United Kingdom",UK: SET Max
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2849
+#EXTINF:-1 tvg-ID="sky1.uk" tvg-name="UK: SKY 1 HD" tvg-logo="[" group-title="Live: United Kingdom",UK: SKY 1 HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/7629
+#EXTINF:-1 tvg-ID="skyarts.uk" tvg-name="UK: Sky Arts" tvg-logo="" group-title="Live: United Kingdom",UK: Sky Arts
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/414
+#EXTINF:-1 tvg-ID="skyatlantic.uk" tvg-name="UK: Sky Atlantic" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Atlantic
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12275
+#EXTINF:-1 tvg-ID="skyliving.uk" tvg-name="UK: Sky Living" tvg-logo="" group-title="Live: United Kingdom",UK: Sky Living
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/585
+#EXTINF:-1 tvg-ID="skyaction.uk" tvg-name="UK: Sky Movies Action & Adv" tvg-logo="" group-title="Live: United Kingdom",UK: Sky Movies Action & Adv
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/264
+#EXTINF:-1 tvg-ID="skycomedy.uk" tvg-name="UK: Sky Movies Comedy" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Sky Movies Comedy
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/263
+#EXTINF:-1 tvg-ID="skydrama.uk" tvg-name="UK: Sky Movies Drama" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Movies Drama
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/265
+#EXTINF:-1 tvg-ID="skyfamily.uk" tvg-name="UK: Sky Movies Family" tvg-logo="" group-title="Live: United Kingdom",UK: Sky Movies Family
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/266
+#EXTINF:-1 tvg-ID="skygreats.uk" tvg-name="UK: Sky Movies Modern-Geant" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Movies Modern-Geant
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/262
+#EXTINF:-1 tvg-ID="skypremiere.uk" tvg-name="UK: Sky Movies Premiere" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Movies Premiere
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/261
+#EXTINF:-1 tvg-ID="skyscifihorror.uk" tvg-name="UK: Sky Movies Sci-Fi" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Movies Sci-Fi
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/254
+#EXTINF:-1 tvg-ID="skyselect.uk" tvg-name="UK: Sky Movies Select" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Sky Movies Select
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/260
+#EXTINF:-1 tvg-ID="skyhits.uk" tvg-name="UK: Sky Movies Showcase" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Movies Showcase
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/269
+#EXTINF:-1 tvg-ID="skycrimethriller.uk" tvg-name="UK: Sky Movies Thriller" tvg-logo="" group-title="Live: United Kingdom",UK: Sky Movies Thriller
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/270
+#EXTINF:-1 tvg-ID="skynews.uk" tvg-name="UK: Sky News" tvg-logo="" group-title="Live: United Kingdom",UK: Sky News
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/930
+#EXTINF:-1 tvg-ID="sky1.uk" tvg-name="UK: Sky One" tvg-logo="" group-title="Live: United Kingdom",UK: Sky One
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/417
+#EXTINF:-1 tvg-ID="sky2.uk" tvg-name="UK: Sky Two" tvg-logo="[" group-title="Live: United Kingdom",UK: Sky Two
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/415
+#EXTINF:-1 tvg-ID="skywitness.uk" tvg-name="UK: Sky Witness" tvg-logo="" group-title="Live: United Kingdom",UK: Sky Witness
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20568
+#EXTINF:-1 tvg-ID="sonychannel.uk" tvg-name="UK: Sony Channel" tvg-logo="" group-title="Live: United Kingdom",UK: Sony Channel
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12489
+#EXTINF:-1 tvg-ID="sonychannel.uk" tvg-name="UK: Sony Entertainment (SET)" tvg-logo="" group-title="Live: United Kingdom",UK: Sony Entertainment (SET)
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2839
+#EXTINF:-1 tvg-ID="spike.uk" tvg-name="UK: spike" tvg-logo="" group-title="Live: United Kingdom",UK: spike
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2226
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sportystaff TV" tvg-logo="" group-title="Live: United Kingdom",UK: Sportystaff TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74218
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Spotlight TV" tvg-logo="" group-title="Live: United Kingdom",UK: Spotlight TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74219
+#EXTINF:-1 tvg-ID="starbharat.uk" tvg-name="UK: Star Bharat" tvg-logo="" group-title="Live: United Kingdom",UK: Star Bharat
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2842
+#EXTINF:-1 tvg-ID="stargold.uk" tvg-name="UK: Star Gold" tvg-logo="" group-title="Live: United Kingdom",UK: Star Gold
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2848
+#EXTINF:-1 tvg-ID="starutsav.uk" tvg-name="UK: Star Jalsha" tvg-logo="" group-title="Live: United Kingdom",UK: Star Jalsha
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2857
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: Star Plus" tvg-logo="[" group-title="Live: United Kingdom",UK: Star Plus
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2838
+#EXTINF:-1 tvg-ID="Starz TV UK" tvg-name="UK: Starz TV" tvg-logo="" group-title="Live: United Kingdom",UK: Starz TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12488
+#EXTINF:-1 tvg-ID="STV HD UK" tvg-name="UK: STV HD" tvg-logo="" group-title="Live: United Kingdom",UK: STV HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12487
+#EXTINF:-1 tvg-ID="Syfy UK" tvg-name="UK: Syfy" tvg-logo="" group-title="Live: United Kingdom",UK: Syfy
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/25878
+#EXTINF:-1 tvg-ID="truecrime.uk" tvg-name="UK: Talking Pictures HD" tvg-logo="[" group-title="Live: United Kingdom",UK: Talking Pictures HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12483
+#EXTINF:-1 tvg-ID="tcm.uk" tvg-name="UK: TCM HD" tvg-logo="" group-title="Live: United Kingdom",UK: TCM HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/21324
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Tcm Movies  1" tvg-logo="" group-title="Live: United Kingdom",UK: Tcm Movies  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74220
+#EXTINF:-1 tvg-ID="TG4 UK" tvg-name="UK: TG4" tvg-logo="" group-title="Live: United Kingdom",UK: TG4
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1255
+#EXTINF:-1 tvg-ID="thevault.uk" tvg-name="UK: The Vault" tvg-logo="" group-title="Live: United Kingdom",UK: The Vault
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12486
+#EXTINF:-1 tvg-ID="tinypop.uk" tvg-name="UK: Tiny Pop" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Tiny Pop
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12485
+#EXTINF:-1 tvg-ID="tlc.uk" tvg-name="UK: TLC" tvg-logo="[""]" group-title="Live: United Kingdom",UK: TLC
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2074
+#EXTINF:-1 tvg-ID="" tvg-name="UK: TLC  1" tvg-logo="" group-title="Live: United Kingdom",UK: TLC  1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74221
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Together" tvg-logo="" group-title="Live: United Kingdom",UK: Together
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74222
+#EXTINF:-1 tvg-ID="talkingpictures.uk" tvg-name="UK: Free Documentary" tvg-logo="" group-title="Live: United Kingdom",UK: Free Documentary
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/20571
+#EXTINF:-1 tvg-ID="travelchannel.uk" tvg-name="UK: Travel Channel" tvg-logo="" group-title="Live: United Kingdom",UK: Travel Channel
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12484
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Travel XP" tvg-logo="" group-title="Live: United Kingdom",UK: Travel XP
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74223
+#EXTINF:-1 tvg-ID="True Entertainment UK" tvg-name="UK: True Ent" tvg-logo="" group-title="Live: United Kingdom",UK: True Ent
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12482
+#EXTINF:-1 tvg-ID="truemovies.uk" tvg-name="UK: True Movies 1" tvg-logo="" group-title="Live: United Kingdom",UK: True Movies 1
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1251
+#EXTINF:-1 tvg-ID="trutv.uk" tvg-name="UK: True TV" tvg-logo="[" group-title="Live: United Kingdom",UK: True TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12481
+#EXTINF:-1 tvg-ID="" tvg-name="UK: TV ONE" tvg-logo="" group-title="Live: United Kingdom",UK: TV ONE
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74224
+#EXTINF:-1 tvg-ID="TV3 UK" tvg-name="UK: TV3 IR HD" tvg-logo="[" group-title="Live: United Kingdom",UK: TV3 IR HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2225
+#EXTINF:-1 tvg-ID="tv5monde.uk" tvg-name="UK: TV5" tvg-logo="[""]" group-title="Live: United Kingdom",UK: TV5
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12480
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: UFC fight night Pass HD" tvg-logo="" group-title="Live: United Kingdom",UK: UFC fight night Pass HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12520
+#EXTINF:-1 tvg-ID="" tvg-name="UK: UFC Fight PASS" tvg-logo="" group-title="Live: United Kingdom",UK: UFC Fight PASS
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12479
+#EXTINF:-1 tvg-ID="universal.uk" tvg-name="UK: Universal Channel HD" tvg-logo="" group-title="Live: United Kingdom",UK: Universal Channel HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12276
+#EXTINF:-1 tvg-ID="UTV UK" tvg-name="UK: UTV Ireland" tvg-logo="[" group-title="Live: United Kingdom",UK: UTV Ireland
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2221
+#EXTINF:-1 tvg-ID="" tvg-name="UK: V2BEAT" tvg-logo="" group-title="Live: United Kingdom",UK: V2BEAT
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74225
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Venus" tvg-logo="" group-title="Live: United Kingdom",UK: Venus
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74226
+#EXTINF:-1 tvg-ID="vh1.uk" tvg-name="UK: VH1 Classic" tvg-logo="[""]" group-title="Live: United Kingdom",UK: VH1 Classic
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/13841
+#EXTINF:-1 tvg-ID="viceland.uk" tvg-name="UK: Viceland HD" tvg-logo="" group-title="Live: United Kingdom",UK: Viceland HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12478
+#EXTINF:-1 tvg-ID="VIVA UK" tvg-name="UK: VIVA" tvg-logo="" group-title="Live: United Kingdom",UK: VIVA
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12477
+#EXTINF:-1 tvg-ID="w.uk" tvg-name="UK: W HD" tvg-logo="[" group-title="Live: United Kingdom",UK: W HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/12476
+#EXTINF:-1 tvg-ID="w.uk" tvg-name="UK: Watch" tvg-logo="[" group-title="Live: United Kingdom",UK: Watch
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/1252
+#EXTINF:-1 tvg-ID="" tvg-name="UK: MTV" tvg-logo="" group-title="Live: United Kingdom",UK: MTV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/74227
+#EXTINF:-1 tvg-ID="yesterday.uk" tvg-name="UK: Yesterday HD" tvg-logo="[""]" group-title="Live: United Kingdom",UK: Yesterday HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/936
+#EXTINF:-1 tvg-ID="zeecinema.uk" tvg-name="UK: Zee Cinema" tvg-logo="" group-title="Live: United Kingdom",UK: Zee Cinema
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2847
+#EXTINF:-1 tvg-ID="zeepunjabi.uk" tvg-name="UK: Zee Punjabi" tvg-logo="" group-title="Live: United Kingdom",UK: Zee Punjabi
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2855
+#EXTINF:-1 tvg-ID="zeetv.uk" tvg-name="UK: Zee TV" tvg-logo="" group-title="Live: United Kingdom",UK: Zee TV
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2837
+#EXTINF:-1 tvg-ID="zing.uk" tvg-name="UK: Zing" tvg-logo="" group-title="Live: United Kingdom",UK: Zing
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/2854
+#EXTINF:-1 tvg-ID="" tvg-name="VIP US: FOX Sports UHD" tvg-logo="" group-title="Live: USA",VIP US: FOX Sports UHD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/125451
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ZA: SuperSport Premier League" tvg-logo="" group-title="Live: Africa - DSTV",VIP ZA: SuperSport Premier League
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/127688
+#EXTINF:-1 tvg-ID="smithsonianchannel.us" tvg-name="VIP US: Smithsonian Channel" tvg-logo="" group-title="Live: USA",VIP US: Smithsonian Channel
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/22861
+#EXTINF:-1 tvg-ID="smithsonian.ca" tvg-name="VIP CAN: SMITHSONIAN" tvg-logo="[" group-title="Live: Canada",VIP CAN: SMITHSONIAN
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/22708
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CAN: SMITHSONIAN Channel HD" tvg-logo="" group-title="Live: Canada",VIP CAN: SMITHSONIAN Channel HD
+http://bigotvpro.com:8080/hCgkdCugXk1g/aZwCxjtfKuQB/33789
